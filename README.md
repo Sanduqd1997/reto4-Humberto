@@ -23,4 +23,4 @@ El proyecto consiste en obtener y mostrar la Localización del dispositivo del u
 
 ## Demo del proyecto
 
-<img src= "https://github.com/Sanduqd1997/reto4-Humberto/blob/main/reto4.gif" height="300">
+<img src= "https://github.com/Sanduqd1997/reto4-Humberto/blob/main/reto4.gif" height="500">
