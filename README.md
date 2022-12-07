@@ -2,7 +2,8 @@
 
 Este es el Reto 4 del Ciclo 4B Desarrollo de Aplicaciones Móviles de Misión TIC 2022
 
-Equipo: 6
+Equipo: 14
+Autor: Humberto Rosales
 
 ## Instalación
 
